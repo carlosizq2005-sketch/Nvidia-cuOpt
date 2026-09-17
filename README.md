@@ -1,3 +1,3 @@
 # Nvidia-cuOpt
 
-Repositorio de prueba para aprender Git
+Repositorio de prueba para aprender Git.
